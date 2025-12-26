@@ -214,13 +214,12 @@ Then let’s connect:
 
 *Step-by-step design, code-in-action, layout adjustments, and live structure setup.*
 
-![Building the Website – Process Preview](WebDev.gif)
-![Building the Website – Process Preview](WebDev1.gif)
+![Building the Website – Process Preview](Setting.gif)
 
 **🌐 Website — Ready to Launch**
 
 *Fully designed interface with smooth interactions and final live preview.*
 
-![Final Website – Live Preview](Technology.gif)
+![Final Website – Live Preview](HTML CSS.gif)
 
 ---
