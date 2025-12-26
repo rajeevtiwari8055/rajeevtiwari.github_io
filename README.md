@@ -220,6 +220,6 @@ Then let’s connect:
 
 *Fully designed interface with smooth interactions and final live preview.*
 
-![Final Website – Live Preview](HTML CSS.gif)
+![Final Website – Live Preview](HTML%20CSS.gif)
 
 ---
