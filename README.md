@@ -2,9 +2,6 @@
 
 ---
 
-🌐 [Visit my website](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io)
-
-
 ## 📑 Table of Contents
 
 - <a href="#introduction">🧩 Introduction</a>  
